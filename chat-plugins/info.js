@@ -182,7 +182,7 @@ exports.commands = {
 		this.sendReplyBox(buf);
 	},
 	whoishelp: [
-		`/whois - Get details on yourself: alts, group, IP address, and rooms.`,
+		`/whois - Getss details on yourself: alts, group, IP address, and rooms.`,
 		`/whois [username] - Get details on a username: alts (Requires: % @ * & ~), group, IP address (Requires: @ * & ~), and rooms.`,
 	],
 
